@@ -21,7 +21,7 @@ void main() {
 
 
 
-      //asfas
+      //asfasasdf
       diceGame = false;
     } else if (start.isEmpty || start.isNotEmpty) {
       print('Please type "start" to begin the game');
